@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_place_holder
+id analyzeButton
+id galleryButton
+id previewImageView
+id progressIndicator
+id result_image
+id result_text
+layout activity_main
+layout activity_result
+mipmap ic_launcher
+mipmap ic_launcher_round
+string analyze
+string app_name
+string camera
+string camera_x
+string empty_image_warning
+string gallery
+string image_classifier_failed
+string result
+style Base.Theme.Asclepius
+style Theme.Asclepius
+xml backup_rules
+xml data_extraction_rules
